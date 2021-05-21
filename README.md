@@ -1,1 +1,1 @@
-# authentication
+# authentication [![Rust](https://github.com/CityBear3/authentication/actions/workflows/rust.yml/badge.svg)](https://github.com/CityBear3/authentication/actions/workflows/rust.yml)
